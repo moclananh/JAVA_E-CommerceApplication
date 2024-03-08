@@ -1,0 +1,30 @@
+
+
+.shopping-cart {
+    margin-top: 60px;
+}
+
+i.fa.fa-search {
+    /* width: 13px; */
+    height: 30px;
+    padding-top: 8px;
+}
+
+button#button-addon3 {
+    margin-bottom: 0;
+}
+
+.bg-light.rounded-pill.px-4.py-3.text-uppercase.font-weight-bold {
+    text-align: center;
+    padding-top: 0;
+    padding-top: 0px !important;
+    line-height: 60px;
+}
+
+a.btn.btn-dark.rounded-pill.py-2.btn-block {
+    line-height: 36px;
+}
+
+.align-middle>.btnSub {
+    margin-left: 26px;
+}
